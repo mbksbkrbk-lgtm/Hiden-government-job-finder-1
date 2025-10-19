@@ -1,11 +1,11 @@
-# gov-hidden-vacancy-finder (Render-ready)
+Narsingh 3 - Hidden Gov Vacancy Finder (Render-ready)
 
 Files:
  - app.py
  - requirements.txt
  - Procfile
 
-Deploy on Render (mobile-friendly):
+How to deploy (mobile-friendly):
 1. Create a GitHub repo and upload these files (Add file -> Upload files).
 2. Sign up at https://www.scraperapi.com and get your API key.
 3. In Render, set environment variable SCRAPERAPI_KEY to your API key (Service -> Environment -> Add variable).
